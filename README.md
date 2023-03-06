@@ -1,2 +1,5 @@
-# 2023_Basic_Track_Assignment
-2023년도 BasicTrack 과제 제출 Github
+# 2022-Basic-Track-Assignment
+![공룡책](https://user-images.githubusercontent.com/48724872/223235545-161bab0b-f572-46db-8019-fbf7414b828e.jpg)
+Repository for submitting Machine Learning with Hands-On Assignments.
+
+- Official Github :https://github.com/wikibook/pymlrev2
